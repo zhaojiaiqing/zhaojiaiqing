@@ -1,7 +1,7 @@
 <div align="center">
   <h1>strengthen</h1>
   
-  <a href="https://github.com/strengthen7">
+  <a href="https://github.com/zhaojiaiqing">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Building+with+Java+%26+Kotlin;Crafting+scalable+backend+systems;Based+in+Guangzhou" alt="Typing SVG" />
   </a>
 
@@ -42,9 +42,9 @@ Committed builder focused on writing clean, maintainable code and delivering rel
 
 <div align="center">
   <img src="https://readme.u14.app/api/github/stats?userId=q8fYMTg9xseGOZntECHWOqyNnjf7TDpF" 
-       alt="GitHub Stats for strengthen7" width="48%" />
+       alt="GitHub Stats for zhaojiaiqing" width="48%" />
   <img src="https://readme.u14.app/api/github/top-langs?userId=q8fYMTg9xseGOZntECHWOqyNnjf7TDpF" 
-       alt="Top Languages for strengthen7" width="48%" />
+       alt="Top Languages for zhaojiaiqing" width="48%" />
 </div>
 
 <br>
@@ -52,7 +52,7 @@ Committed builder focused on writing clean, maintainable code and delivering rel
 ## Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=strengthen7&theme=tokyonight&hide_border=true" 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zhaojiaiqing&theme=tokyonight&hide_border=true" 
        alt="GitHub Streak Stats" />
 </div>
 
@@ -61,5 +61,5 @@ Committed builder focused on writing clean, maintainable code and delivering rel
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=strengthen7&label=Profile%20Views&color=00D4FF&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=zhaojiaiqing&label=Profile%20Views&color=00D4FF&style=flat" alt="Profile Views" />
 </div>
