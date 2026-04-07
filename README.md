@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>strengthen</h1>
+  <h1>zhaojiaiqing</h1>
   
   <a href="https://github.com/zhaojiaiqing">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Building+with+Java+%26+Kotlin;Crafting+scalable+backend+systems;Based+in+Guangzhou" alt="Typing SVG" />
