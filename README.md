@@ -1,65 +1,68 @@
-<div align="center">
-  <h1>zhaojiaiqing</h1>
-  
-  <a href="https://github.com/zhaojiaiqing">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Building+with+Java+%26+Kotlin;Crafting+scalable+backend+systems;Based+in+Guangzhou" alt="Typing SVG" />
-  </a>
+# zhaojiaiqing
 
-  <p><strong>Software Engineer @ Tsintergy</strong> • Guangzhou, China</p>
-  
-  <a href="https://www.strengthen.tech" target="_blank">
-    <img src="https://img.shields.io/badge/Blog-www.strengthen.tech-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog" />
-  </a>
-</div>
-
-<br>
-
-## About Me
-
-Software developer with a focus on backend systems, building since 2016. 
-
-Currently contributing at **Tsintergy** in Guangzhou. Proficient in **Java** (primary), **JavaScript**, **Kotlin**, **Python**, and **CSS**. 
-
-Committed builder focused on writing clean, maintainable code and delivering reliable software solutions.
-
-<br>
-
-## Tech Stack
-
-### Languages
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2DF8C5&center=true&vCenter=true&width=500&lines=Hi,+I'm+zhaojiaiqing;Java+%7C+Kotlin+%7C+Python;Builder+by+default" alt="Typing SVG" />
 </p>
 
-<br>
+---
 
-## GitHub Stats
+## 👨‍💻 About Me
+
+I'm a software builder with a deep focus on the JVM ecosystem. My work is shaped by **Java** (86.4% of my public code), **Kotlin**, and **Python** — three languages I actively use to craft reliable, production-ready systems.
+
+Member since 2016, I operate with a clean, commit-driven workflow (100% of contributions are commits). No PRs, no issues, no reviews — just direct, focused building. My recent activity (past 90 days) shows one active public repository, reflecting deliberate, high-signal work.
+
+- 🔗 Blog: [strengthen.tech](https://www.strengthen.tech)
+- 🌍 Active in: Python, Java, Kotlin
+- 📍 No location specified — code speaks for itself
+
+---
+
+## 🧰 Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/-Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+</p>
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://readme.u14.app/api/github/stats?userId=q8fYMTg9xseGOZntECHWOqyNnjf7TDpF" 
-       alt="GitHub Stats for zhaojiaiqing" width="48%" />
-  <img src="https://readme.u14.app/api/github/top-langs?userId=q8fYMTg9xseGOZntECHWOqyNnjf7TDpF" 
-       alt="Top Languages for zhaojiaiqing" width="48%" />
+  <img width="48%" src="https://readme.u14.app/api/github/stats?userId=q8fYMTg9xseGOZntECHWOqyNnjf7TDpF" alt="GitHub Stats" />
+  <img width="48%" src="https://readme.u14.app/api/github/top-langs?userId=q8fYMTg9xseGOZntECHWOqyNnjf7TDpF" alt="Top Languages" />
 </div>
 
-<br>
+---
 
-## Contribution Activity
+## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zhaojiaiqing&theme=tokyonight&hide_border=true" 
-       alt="GitHub Streak Stats" />
+  <img width="100%" src="https://readme.u14.app/api/github/trophies?userId=q8fYMTg9xseGOZntECHWOqyNnjf7TDpF" alt="GitHub Trophies" />
 </div>
 
-<br>
+---
+
+## 🔥 Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zhaojiaiqing&theme=tokyonight" alt="GitHub Streak" />
+</div>
+
+<br />
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zhaojiaiqing/zhaojiaiqing/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zhaojiaiqing/zhaojiaiqing/output/github-snake.svg">
+    <img alt="github pacman animation" src="https://raw.githubusercontent.com/zhaojiaiqing/zhaojiaiqing/output/github-snake.svg">
+  </picture>
+</p>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=zhaojiaiqing&label=Profile%20Views&color=00D4FF&style=flat" alt="Profile Views" />
+  <sub>Builder · No fluff · Just commits</sub>
 </div>
